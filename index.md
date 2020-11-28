@@ -1,2 +1,0 @@
-<iframe width="100%" height="1086" frameborder="0"
-  src="https://observablehq.com/embed/4d979fe88a6f6a6a?cell=viewof+ch&cell=plot"></iframe>
